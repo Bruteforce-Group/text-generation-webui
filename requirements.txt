@@ -10,7 +10,7 @@ einops
 markdown
 numpy
 pandas
-Pillow>=9.5.0
+Pillow>=10.2.0
 pyyaml
 requests
 safetensors==0.3.1
